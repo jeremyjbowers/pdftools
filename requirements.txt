@@ -1,0 +1,15 @@
+beautifulsoup4==4.3.2
+cchardet==0.3.5
+chardet==2.3.0
+Cython==0.22
+dnspython==1.11.1
+dnsq==1.1.3
+expiringdict==1.1.3
+flanker==0.4.29
+ftfy==4.0.0
+pdfminer==20140328
+redis==2.10.3
+regex==2015.6.4
+requests==2.7.0
+slate==0.3
+WebOb==1.4.1
